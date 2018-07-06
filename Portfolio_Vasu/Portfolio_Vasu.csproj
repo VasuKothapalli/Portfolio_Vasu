@@ -96,17 +96,6 @@
     <Content Include="assets\images\awards\2.jpg" />
     <Content Include="assets\images\awards\3.jpg" />
     <Content Include="assets\images\awards\4.jpg" />
-    <Content Include="assets\images\bg\demo.jpg" />
-    <Content Include="assets\images\bg\gradient-bg.jpg" />
-    <Content Include="assets\images\bg\img-bg1.jpg" />
-    <Content Include="assets\images\bg\img-bg2.jpg" />
-    <Content Include="assets\images\bg\img-bg3.jpg" />
-    <Content Include="assets\images\bg\img-bg5.jpg" />
-    <Content Include="assets\images\bg\img-bg6.jpg" />
-    <Content Include="assets\images\bg\img-bg7.jpg" />
-    <Content Include="assets\images\bg\img-bg8.jpg" />
-    <Content Include="assets\images\bg\light-bg.jpg" />
-    <Content Include="assets\images\bg\video.JPG" />
     <Content Include="assets\images\blog\1.jpg" />
     <Content Include="assets\images\blog\author.jpg" />
     <Content Include="assets\images\blog\comment1.jpg" />
